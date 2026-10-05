@@ -49,9 +49,8 @@ SQL techniques used include:
 - Healthcare utilization per patient generally increased with age within this synthetic cohort.
 
 ## Tableau Dashboard
-
 The Tableau dashboard compares healthcare utilization across age groups and encounter types.
-
+![Healthcare Utilization Dashboard](dashboard.png) 
 The dashboard includes:
 - Average encounters per patient by age group
 - Total encounters by age group
